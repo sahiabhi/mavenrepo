@@ -10,8 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         
-        int num=10;
-        num+=20;
-        System.out.println(num);
+        
     }
 }
