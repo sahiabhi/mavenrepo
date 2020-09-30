@@ -24,7 +24,7 @@ public class AppTest {
 	}
 	@Test
 	public void test5() {
-		System.out.println("test5")
+		System.out.println("test5");
 	}
 	}
 
