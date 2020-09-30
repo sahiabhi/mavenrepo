@@ -1,5 +1,7 @@
 package com.cg.projectTest;
 
+import static org.junit.Assert.fail;
+
 import org.junit.Test;
 
 public class AppTest {
@@ -19,6 +21,10 @@ public class AppTest {
 	@Test
 	public void test4() {
 	System.out.println("test4");
+	}
+	@Test
+	public void test5() {
+		fail();
 	}
 	}
 
